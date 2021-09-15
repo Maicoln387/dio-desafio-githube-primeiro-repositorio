@@ -1,0 +1,48 @@
+
+var ftGUID_5677791="50067E26D8173E";
+var ftConfID_5677791="0";
+var ftParams_5677791="ft_custom=311576687&imageType=gif&ftDestID=31017069&ft_width=1&ft_height=1&click=&ftOBA=0&ftExpTrack=&gdpr=&gdpr_consent=&us_privacy=${US_PRIVACY}&ft_section=26310070_311576687_504448140_156261122&ft_custom=311576687&cachebuster=2140656769";
+var ftKeyword_5677791="";
+var ftCustom_5677791="311576687";
+var ftSection_5677791="26310070_311576687_504448140_156261122";
+var ftSegment_5677791="";
+var ftSegmentList_5677791=[];
+var ftRuleMatch_5677791="0";
+var ftTimestamp_5677791="1631706539";
+var ftGeoC2_5677791="br";
+var ftGeoState_5677791="ba";
+var ftGeoCity_5677791="joao dourado";
+var ftISP_5677791="provedor intersousa ltda";
+var ftSpeed_5677791="broadband";
+var ftDMA_5677791="76111";
+var ftLong_5677791="-41.61";
+var ftLat_5677791="-11.29";
+var ftPostal_5677791="44920-000";
+var ftTimeZone_5677791="-300";
+var ftMobileCarrier_5677791="";
+var ftImp5677791 = {};
+ftImp5677791.privacy = "x";
+ftImp5677791.guidAge = "0";
+ftImp5677791.impID = "B415A981-CBDE-ADDA-BA6B-7C2AAC9FDDBA";
+ftImp5677791.duid = "FT:50067E26D8173E";
+
+ftImp5677791.ft_tpplid = "";
+ftImp5677791.ft_c = {};
+ftImp5677791.gdpr = "";
+ftImp5677791.gdpr_consent = "";
+ftImp5677791.gdpr_pd = "";
+ftImp5677791.oob_consent = "0";
+ftImp5677791.gdprStoredConsent = "";
+ftImp5677791.us_privacy = "!!US_PRIVACY!";
+
+ftImp5677791.jsAppend = "1";
+(function(){
+    var tag = document.getElementById('ft_servedby_5677791') || (function(s){
+    	return s[s.length-1];
+    }(document.getElementsByTagName('script'))),
+           js = document.createElement('script');
+    js.src =
+"https://cdn.flashtalking.com/xre/567/5677791/2863405/js/j-5677791-2863405.js";
+    js.id = "ftscript_m5677791";
+    tag.parentNode.insertBefore(js, tag);
+}());
